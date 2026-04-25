@@ -67,7 +67,12 @@ docker run -d --name go-mongo --network host go-app
 ```
 
 ---
+## 🐳 Run with Docker Compose
 
+### Start all services (App + MongoDB)
+
+```bash
+docker-compose up --build
 ## 📡 API Endpoints
 
 ### GET /
