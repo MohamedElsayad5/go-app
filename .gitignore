@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+*.out
+*.test
+survey
+
+# Vendor
+/vendor/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Go build cache
+*.cache
